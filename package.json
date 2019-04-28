@@ -1,0 +1,25 @@
+{
+  "name": "string-replace-loader2",
+  "version": "1.0.0",
+  "description": "A webpack loader to replace a string or pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrekuu/string-replace-loader2.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "shekuu <shrekuu@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrekuu/string-replace-loader2/issues"
+  },
+  "homepage": "https://github.com/shrekuu/string-replace-loader2",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
